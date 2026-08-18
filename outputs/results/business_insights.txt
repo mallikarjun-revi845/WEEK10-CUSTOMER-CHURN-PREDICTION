@@ -1,0 +1,10 @@
+WEEK 10 CUSTOMER CHURN - BUSINESS INSIGHTS
+======================================================================
+
+1. The trained Random Forest model achieved an accuracy of 95.00%.
+2. The model achieved an F1 score of 0.8148.
+3. The ROC-AUC score was 0.9990.
+4. The most important model feature was numeric__Tenure, with importance 0.1698.
+5. 15 customers (15.00%) in the test dataset were classified as high churn risk.
+6. Churn probability can be used to prioritize customers for retention campaigns.
+7. Feature engineering and preprocessing provide a structured dataset suitable for machine learning.

@@ -1,0 +1,4 @@
+Method,Purpose,Used_In_Project
+Label Encoding,Convert categories into integer labels,Demonstration
+One-Hot Encoding,Create binary columns for categories,Main categorical preprocessing
+Ordinal Encoding,Encode categories using ordered numerical values,Demonstration

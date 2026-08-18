@@ -1,0 +1,5 @@
+Feature,Mean,Std_Deviation,ZScore_Threshold,Outlier_Count,Outlier_Percentage
+Tenure,36.532,20.66705664725681,3,0,0.0
+MonthlyCharges,113.636,51.79990312662617,3,0,0.0
+TotalCharges,4237.882,2260.619837162442,3,0,0.0
+SeniorCitizen,0.498,0.5004967472301652,3,0,0.0

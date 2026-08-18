@@ -1,0 +1,6 @@
+Feature,Description
+Customer_Lifetime_Value,Monthly charges multiplied by customer tenure.
+Average_Monthly_Value,Monthly charge associated with the customer.
+Tenure_Group,"Customer grouped into New, Developing, Established, or Loyal."
+Charge_Per_Tenure_Month,Monthly charge divided by customer tenure.
+Total_Charges_Per_Month,Total charges divided by customer tenure.

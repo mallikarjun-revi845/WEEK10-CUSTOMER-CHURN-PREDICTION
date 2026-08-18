@@ -1,0 +1,5 @@
+Feature,Q1,Q3,IQR,Lower_Bound,Upper_Bound,Outlier_Count,Outlier_Percentage
+Tenure,19.0,54.0,35.0,-33.5,106.5,0,0.0
+MonthlyCharges,67.0,158.0,91.0,-69.5,294.5,0,0.0
+TotalCharges,2237.25,6266.75,4029.5,-3807.0,12311.0,0,0.0
+SeniorCitizen,0.0,1.0,1.0,-1.5,2.5,0,0.0

@@ -1,0 +1,2 @@
+Dataset_Rows,Dataset_Columns,Target,Engineered_Features,Training_Samples,Testing_Samples,Accuracy,Precision,Recall,F1_Score,ROC_AUC,High_Risk_Customers,High_Risk_Percentage,Top_Feature
+500,9,Churn,5,400,100,0.95,0.6875,1.0,0.8148148148148148,0.9989785495403473,15,15.0,numeric__Tenure
