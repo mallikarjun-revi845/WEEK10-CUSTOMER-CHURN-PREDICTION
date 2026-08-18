@@ -1,7 +1,3 @@
-# ============================================================
-# CELL 73: CREATE README
-# ============================================================
-
 readme_content = f"""# 👥 Week 10 — Customer Churn Prediction
 
 ## Data Preprocessing & Feature Engineering
